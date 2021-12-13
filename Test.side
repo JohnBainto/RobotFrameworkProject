@@ -261,6 +261,13 @@
       "targets": [],
       "value": "Name (A to Z)"
     }, {
+      "id": "12fea3fb-518d-4350-9e5e-9966e76b9652",
+      "comment": "",
+      "command": "assertSelectedValue",
+      "target": "css=*[data-test=\"product_sort_container\"]",
+      "targets": [],
+      "value": "az"
+    }, {
       "id": "b6e39689-94c4-466b-b9ea-7e3b746e1c08",
       "comment": "",
       "command": "close",
@@ -337,6 +344,13 @@
       "target": "css=*[data-test=\"product_sort_container\"]",
       "targets": [],
       "value": "Name (Z to A)"
+    }, {
+      "id": "64b938d0-1a3e-41c9-9963-dc5d25187850",
+      "comment": "",
+      "command": "assertSelectedValue",
+      "target": "css=*[data-test=\"product_sort_container\"]",
+      "targets": [],
+      "value": "za"
     }, {
       "id": "d7b73df8-f7f3-47f0-b088-89bb173b72f8",
       "comment": "",
@@ -415,6 +429,13 @@
       "targets": [],
       "value": "Price (low to high)"
     }, {
+      "id": "3b47239f-c885-4b2f-8987-9d05eb7661ab",
+      "comment": "",
+      "command": "assertSelectedValue",
+      "target": "css=*[data-test=\"product_sort_container\"]",
+      "targets": [],
+      "value": "lohi"
+    }, {
       "id": "5cf5770c-2497-437f-a204-de7e7490d624",
       "comment": "",
       "command": "close",
@@ -491,6 +512,13 @@
       "target": "css=*[data-test=\"product_sort_container\"]",
       "targets": [],
       "value": "Price (high to low)"
+    }, {
+      "id": "85b5fcf5-8c0a-4b31-8d17-63290d1cec22",
+      "comment": "",
+      "command": "assertSelectedValue",
+      "target": "css=*[data-test=\"product_sort_container\"]",
+      "targets": [],
+      "value": "hilo"
     }, {
       "id": "2a5a4aef-5a21-48ff-a14f-4c05de4d1be1",
       "comment": "",
